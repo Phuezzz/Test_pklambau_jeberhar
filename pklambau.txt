@@ -4,4 +4,10 @@ git add pklambau.txt
 git commit pklambau.txt -m "Commit1"
 git push
 git pull
+git commit README.md -m "Name hinzugefügt"
+git commit pklambau.txt -m "Aktualisierung1"
 git push
+
+Konflikt wurde bewusst erzeugt:
+Eberhot hatte nicht die aktuelle Version lokal am PC und hatte daher einen Konflikt
+-> Lösung git pull, git add, git merge -> damit er wieder auf der neuesten Version ist.
