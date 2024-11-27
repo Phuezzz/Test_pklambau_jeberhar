@@ -1,0 +1,7 @@
+git clone https://github.com/Phuezzz/Test_pklambau_jeberhar.git
+git status
+git add pklambau.txt
+git commit pklambau.txt -m "Commit1"
+git push
+git pull
+git push
